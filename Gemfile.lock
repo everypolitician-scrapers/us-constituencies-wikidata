@@ -14,9 +14,8 @@ GIT
       wikidata-client (~> 0.0.7)
 
 GIT
-  remote: https://github.com/everypolitician/wikisnakker
+  remote: https://github.com/everypolitician/wikisnakker.git
   revision: cc55a4f45290c8ad86dc3e2a41ea678e02e3dd94
-  branch: master
   specs:
     wikisnakker (0.7.0)
 
