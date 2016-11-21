@@ -106,7 +106,7 @@ DEPENDENCIES
   wikisnakker!
 
 RUBY VERSION
-   ruby 2.0.0p648
+   ruby 2.3.1p112
 
 BUNDLED WITH
-   1.13.3
+   1.13.4
